@@ -1,0 +1,35 @@
+{
+  "side_difference": {
+    "total": 9,
+    "correct": 5,
+    "opposite": 3,
+    "unresolved": 1,
+    "excess_range_from_marginal_signs": [
+      -0.10656292393072153,
+      0.23641726366436153
+    ]
+  },
+  "sides_vs_control": {
+    "total": 18,
+    "correct": 4,
+    "opposite": 12,
+    "unresolved": 2,
+    "excess_range_from_marginal_signs": [
+      0.0499486424578188,
+      0.1633296566243215
+    ]
+  },
+  "Otero_Fig4B": {
+    "dose_oz": 4,
+    "observed_log2_C_over_T_ratio_marks": 0.9233787183970875,
+    "pixel_interval": [
+      0.6114347120823471,
+      1.3219280948873624
+    ],
+    "prediction": 0.5313982151605137,
+    "model_error": 0.39198050323657385,
+    "zero_error": 0.9233787183970875,
+    "gain": 0.5313982151605137,
+    "dose7": "tension mark coincides with baseline; log ratio unresolved"
+  }
+}

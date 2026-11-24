@@ -1,0 +1,19 @@
+{
+  "source": "https://repositorio.pgsscogna.com.br/bitstream/123456789/2736/1/282d74066b1278126458adace089b49c.pdf",
+  "n_teeth_day7": 14,
+  "n_teeth_control": 20,
+  "n_patients_all_timepoints": 33,
+  "n_teeth_all_timepoints": 84,
+  "results_by_assumed_scale": {
+    "already_log2_expression_sensitivity": {
+      "abs_model_error": 1.526334722215008,
+      "abs_zero_error": 2.805,
+      "gain": 1.278665277784992
+    },
+    "linear_relative_expression": {
+      "abs_model_error": 1.3376596792723354,
+      "abs_zero_error": 0.7639301316264009,
+      "gain": -0.5737295476459345
+    }
+  }
+}

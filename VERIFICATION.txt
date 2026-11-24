@@ -1,0 +1,11 @@
+Example and reproducibility timings
+Measured on Windows 10 x64 (build 19045), Intel Core Ultra 9 275HX, 16 GB nominal installed RAM, local storage, Python 3.12.14. Times are wall-clock measurements of a single run on the submission workstation and will vary by machine.
+
+Demo setup with Python already installed: approximately 0.22 seconds to extract Supplementary_Software_1.zip. No package installation is required for the worked example.
+Running the 101-gene example: approximately 0.05 seconds including Python startup.
+Unpacking the three analysis files into one directory: approximately 0.50 seconds total.
+Reconstructing figure and table CSVs from archived intermediate data, including integrity checks: approximately 0.29 seconds.
+Reconstructing the count-based culture analyses and redrawing the three figures, with dependencies already installed: approximately 4.5 seconds.
+The latter excludes installation of optional packages, public dataset download and optional raw atlas preprocessing. No internet access was required for the demonstration or the numerical reconstruction.
+
+The 3 main figure CSVs, Table 1 and all 7 supplementary table CSVs agreed byte-for-byte with the separate Source Data file. The rendered figure PNG files also agreed byte-for-byte with those embedded in the article. The clinical demo reproduced 41 closer gene forecasts, 60 farther and no ties. Its own-data command was independently exercised on a three-column CSV with the example measurements.

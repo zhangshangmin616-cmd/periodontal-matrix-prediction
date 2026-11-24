@@ -1,0 +1,29 @@
+Offline reproduction validation
+
+Validation date: 25 November 2026 (Asia/Shanghai).
+The check used a separate writable directory containing the merged Supplementary Software 1, Supplementary Data 1 and Supplementary Data 2 archives. The archived scientific files were not modified in the repository preparation step.
+Python 3.12.14; NumPy 2.3.5. Matplotlib was not installed in the validation environment.
+
+
+demo: exit 0, 0.043826 seconds, arguments: score_contrast.py stage19/figures/Figure_1_source_data.csv --forecast atlas
+reproduce: exit 0, 0.245337 seconds, arguments: reproduce.py
+from_counts: exit 0, 3.141565 seconds, arguments: reproduce.py --from-counts
+
+Results: the demo exactly reproduced the documented six-decimal values and counts (41 closer, 60 farther, zero ties). Basic reconstruction and the count-based reconstruction passed all manifest and output equality checks. All 581 originally supplied files retained identical SHA-256 hashes after both runs; four local Python bytecode cache files were the only additions. All 11 stage19 CSV files remain byte-identical, including three figure source-data files, seven supplementary-table files and the study-design table.
+
+The count workflow independently confirmed the original Hong Kong table, 14 destination run checksums and the integer atlas, and scored 96 orientation/destination combinations. Its FPKM missing/multiple-locus list is a printed coverage diagnostic; the run exited successfully.
+
+Plot regeneration with --figures was not executed because Matplotlib is absent. No package installation or global environment modification was attempted. Earlier rendering of the submitted figures is separate from this reproduction check.
+
+Stage19 CSVs:
+stage19/Table_1.csv
+stage19/figures/Figure_1_source_data.csv
+stage19/figures/Figure_2_source_data.csv
+stage19/figures/Figure_3_source_data.csv
+stage19/supp/data/Supplementary_Table_1.csv
+stage19/supp/data/Supplementary_Table_2.csv
+stage19/supp/data/Supplementary_Table_3.csv
+stage19/supp/data/Supplementary_Table_4.csv
+stage19/supp/data/Supplementary_Table_5.csv
+stage19/supp/data/Supplementary_Table_6.csv
+stage19/supp/data/Supplementary_Table_7.csv

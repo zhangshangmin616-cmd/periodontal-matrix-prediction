@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/ctm2.70703",
+  "unit": "Human clinical root-surface tissue; no P/T assignment for qPCR",
+  "area_or_patient_pairing_fraction": "unknown",
+  "atlas_sha256": "142b42445b4ffa8b78489b2b91df356315c23db615552d9eff6f9b3c0f858551",
+  "independent_clinical_cohort_from_source_atlas": "not established",
+  "measurements": {
+    "PIEZO1": {
+      "relative_control": 0.986013986013986,
+      "relative_day7": 3.2937062937062938,
+      "approximate_log2_ratio_of_plotted_group_bars": 1.7400318972139897,
+      "two_pixel_sensitivity": [
+        1.6221954069201314,
+        1.868355994189529
+      ],
+      "source_plot_contrast": "**",
+      "frozen_101_gene_target": false,
+      "in_fixed_10806_gene_file": true,
+      "pressure_weight_sensitivity": {
+        "0.0": {
+          "prediction": 1.2867432533829481,
+          "model_error": 0.4532886438310415,
+          "zero_error": 1.7400318972139897
+        },
+        "0.5": {
+          "prediction": 0.9959493490910832,
+          "model_error": 0.7440825481229064,
+          "zero_error": 1.7400318972139897
+        },
+        "1.0": {
+          "prediction": 0.5598491783123226,
+          "model_error": 1.180182718901667,
+          "zero_error": 1.7400318972139897
+        }
+      },
+      "all_mixes_positive_and_below_measurement_lower_bound": true
+    },
+    "IL1B": {
+      "relative_control": 1.008695652173913,
+      "relative_day7": 4.730434782608696,
+      "approximate_log2_ratio_of_plotted_group_bars": 2.2294818461227672,
+      "two_pixel_sensitivity": [
+        2.043068721891886,
+        2.4436066514756147
+      ],
+      "source_plot_contrast": "**",
+      "frozen_101_gene_target": false,
+      "in_fixed_10806_gene_file": false
+    },
+    "TNF": {
+      "relative_control": 1.1269565217391304,
+      "relative_day7": 2.462608695652174,
+      "approximate_log2_ratio_of_plotted_group_bars": 1.1277555471983727,
+      "two_pixel_sensitivity": [
+        0.9918721191165997,
+        1.27778099120298
+      ],
+      "source_plot_contrast": "n.s.",
+      "frozen_101_gene_target": false,
+      "in_fixed_10806_gene_file": false
+    },
+    "ZBP1": {
+      "relative_control": 0.9881656804733728,
+      "relative_day7": 2.3846153846153846,
+      "approximate_log2_ratio_of_plotted_group_bars": 1.2709317360539152,
+      "two_pixel_sensitivity": [
+        1.2034249166956386,
+        1.341753073243612
+      ],
+      "source_plot_contrast": "*",
+      "frozen_101_gene_target": false,
+      "in_fixed_10806_gene_file": false
+    }
+  }
+}

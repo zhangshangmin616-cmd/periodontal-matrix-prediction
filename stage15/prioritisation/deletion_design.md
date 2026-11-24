@@ -1,0 +1,3 @@
+# Clinical shortlist sensitivity
+
+After the 10-gene score on the full Leuven contrast was known, repeat the same scoring rule for every one of its 19 exposed-specimen deletions. Keep the five untreated specimens, the two frozen forecast vectors and their shortlist memberships fixed. Reconstruct the observed 101 shifts from the original per-specimen ranks. Separately omit each of the 11 Seoul source participants when calculating the measured-response forecast for the full Leuven day-7 outcome. Record all results, including five and twenty nominations. These are overlapping perturbations of the observed samples and do not provide confidence intervals or independent successes. The two deletion series address separate sources of influence.

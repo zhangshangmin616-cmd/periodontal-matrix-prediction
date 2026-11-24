@@ -1,0 +1,5 @@
+side	gene	reference_gene	predicted_log2_ratio	zero
+pressure	TNFRSF11B	ACTB	-0.05091287103768	0
+pressure	TNFSF11	ACTB	0.3831494604749	0
+tension	TNFRSF11B	ACTB	-0.1673750065195	0
+tension	TNFSF11	ACTB	-0.2647108901675	0

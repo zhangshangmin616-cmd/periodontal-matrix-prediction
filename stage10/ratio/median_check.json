@@ -1,0 +1,11 @@
+{
+  "figure_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7c18/2719712/c6654d00da6e/nihms125069f3.jpg",
+  "figure_sha256": "120985cab274a28ace6f36ea8fde032340071a3e4facb49c62968c7472d0398c",
+  "freeze_predictions_sha256": "2a80157846e08908fa81522ba9558d7fedf00672661660c297bcc11e10bb0bad",
+  "observed_lower_bound": "2",
+  "pressure_prediction": "0.43406233151258",
+  "tension_prediction": "-0.0973358836480",
+  "predicted_median_contrast": "0.53139821516058",
+  "absolute_error_gain_vs_no_side_difference": "0.53139821516058",
+  "minimum_model_abs_error": "1.46860178483942"
+}

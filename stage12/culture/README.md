@@ -1,0 +1,17 @@
+# External assay of mechanically stretched human periodontal stromal cells
+
+Janjić et al. measured the RNA response of primary periodontal ligament stromal cultures from three donors after 72 hours of tensile loading relative to untreated cultures. Their first supplementary table reports 1,336 selected differential expression coefficients and explicitly defines positive values as upregulation under tension. Table 2 publishes counts for a stricter subset of 124 genes. These tables cannot recover a complete baseline tissue profile or an expression-rank endpoint for the fixed 10,806-gene background. [Original study](https://doi.org/10.1016/j.ejcb.2023.151319) · [Table 1](https://ars.els-cdn.com/content/image/1-s2.0-S0171933523000341-mmc4.docx) · [Table 2](https://ars.els-cdn.com/content/image/1-s2.0-S0171933523000341-mmc5.docx)
+
+We directly matched 40 of the 101 fixed panel symbols to Table 1. An additional check of previous symbols and aliases for the 61 unmatched panel genes against the cached HGNC complete set found no additional candidates. Seven of these 40 targets also appear in Table 2. Their reported normalized expression-change signs all agree with the direction of the difference in aggregate raw counts for the three treated versus three untreated cultures. This check establishes the assay direction; unnormalized counts were not used to estimate magnitudes. The experimental model used a programmable tensile platform, whereas the atlas measured tissue from loaded teeth. The cultured stromal population and the marker-defined fibroblast-like atlas gate need not coincide.
+
+The single-group transfer prediction is log₂[(1 + day-3 tension fibroblast-like CPM)/(1 + untreated fibroblast-like CPM)]. It uses the complete group library depth in each denominator. The fixed five-group expression predictor under tension is the E3 column of the historical mixture table. It keeps control RNA shares unchanged, updates five named groups and leaves the residual group's profile at baseline. Neither prediction uses the culture measurements to fit parameters. The measured effects came from Table 1 at its reported precision of three decimal places.
+
+| Measure | Fibroblast-like transfer | Five-group tissue transfer | Zero |
+|---|---:|---:|---:|
+| Mean absolute log₂ error on the 40 genes with published coefficients | 0.894 | 0.658 | 0.526 |
+| Genes with smaller absolute error than zero among these 40 | 11 | 14 | — |
+| Average gain over zero on the entire 101-gene panel, lower to upper bound | −0.548 to +0.257 | −0.236 to +0.131 | 0 |
+
+For any unreported gene with two fixed forecasts p and b, the possible gain |y−b|−|y−p| lies between −|p−b| and +|p−b|. Average these limits across the 61 missing genes together with the observed gains across 40 reported genes. Both full-panel intervals span zero. The subset is enriched for detectable changes by design. Its result cannot determine the full-panel winner. The 40 comparisons are gene effects from one three-donor experiment.
+
+Run `python score.py` with NumPy and the packaged stage8/axial_log2_multipliers.tsv.gz and stage10/reference_counts.npz to regenerate scores.tsv and predictions.tsv. The latter retains every target, including absent observations. To re-extract the compact culture_readouts.tsv, take the two publisher supplements listed in source.json, check their SHA-256 hashes, then run `python extract.py --source DIRECTORY`. This step uses the packaged stage5/reference/features.tsv. No publisher documents are redistributed here.

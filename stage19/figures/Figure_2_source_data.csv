@@ -1,0 +1,809 @@
+accession,condition,scored_unit,baseline_libraries,loaded_libraries,rank_background,panel_genes,unit,prediction_source,donor,gene,observed,zero,predicted
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTA2,-10.822150239086852,0.0,-0.24371432978559446
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTB,0.0030849915162889374,0.0,-0.10488971155328859
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTG1,-0.0030849915162889374,0.0,-0.04318988122782722
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTG2,-9.628258522289066,0.0,-5.099490976399816
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTN1,-0.38253894801789556,0.0,-0.3146691346598753
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ADAM12,-2.04534937528922,0.0,2.452568255437299
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ADAM19,-3.606355082523521,0.0,-2.884467067715567
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,AGRN,-1.975937066173067,0.0,-26.02961591855622
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,APP,0.19743945704148302,0.0,0.19435446552521776
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ASPN,-3.954959123862409,0.0,1.7985500539873518
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,BGN,-12.447940768162894,0.0,-7.5674841894184794
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,BMP2,1.1028844670677154,0.0,-0.21286441462285974
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,BMP4,4.528767545889252,0.0,9.75937066173068
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,CASK,0.040104889711543024,0.0,1.0766620391793917
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,CD47,2.771864877371584,0.0,1.332716335030085
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,COMP,-0.029307419404596642,0.0,-0.0015424957581366694
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DAG1,3.2716335030078767,0.0,-12.108591701372822
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DDR2,-0.3054141601110558,0.0,-0.08637976245564971
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DRP2,2.972389325929356,0.0,-11.713712787289836
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DTNA,-2.981644300478184,0.0,-4.548819990745027
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DTNB,-0.22366188492981642,0.0,-1.4252660805182789
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EFEMP1,-5.289217954650624,0.0,-6.965910843745182
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EFEMP2,-1.1476168440536867,0.0,1.0180472003701908
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EMILIN1,0.15733456732994,0.0,-2.1070492056146812
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EMILIN2,2.3445935523677335,0.0,-6.9828782970846826
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FBLN1,-0.0246799321301836,0.0,-0.11722967761839224
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FBLN2,-3.1914237235847622,0.0,0.15424957581366053
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FBLN5,-2.865957118617928,0.0,1.0674070646305676
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FGF2,-1.8324849606663491,0.0,5.35863026376678
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FMOD,-8.801480795927809,0.0,3.3981181551750743
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,GDF5,-0.3671139904365255,0.0,1.5455807496529388
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,HAPLN1,-8.989665278420489,0.0,2.1348141292611444
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM1,-0.8761375906216261,0.0,-0.14036711399043658
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM2,-0.03547740243714326,0.0,0.016967453339503297
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM3,2.936911923492209,0.0,-2.511183094246491
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM5,-0.2637667746413699,0.0,-0.12339966065093318
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA1,-4.175536017275938,0.0,11.935832176461512
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA10,11.8463674224896,0.0,-12.247416319605122
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA11,-4.541107511954351,0.0,0.10488971155328859
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA2,23.24541107511955,0.0,2.998611753817675
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA3,3.8685793614067308,0.0,-7.265155020823689
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA4,4.545734999228742,0.0,2.989356779268858
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA5,1.5054758599413987,0.0,-1.4561159956810077
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA7,4.064476322690105,0.0,-1.3157488816905751
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA8,-0.1789295079438631,0.0,-0.27147925343205276
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA9,0.6571031929662192,0.0,-0.6848681166126797
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGAE,0.5460434983803708,0.0,-0.24371432978559207
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGAV,-0.5398735153478356,0.0,0.863797624556535
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB1,0.021594940613908875,0.0,0.018509949097638884
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB2,-0.7481104426962825,0.0,-0.5445010026222429
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB3,-3.320993367268244,0.0,-7.897578281659726
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB5,-0.30849915162731634,0.0,-1.0458121240166587
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB8,0.3701989819528002,0.0,7.67854388400432
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,JAM2,1.5563782199598943,0.0,0.3825389480178929
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,JAM3,2.392410920869956,0.0,-4.227980873052599
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMA1,-2.7178775258368066,0.0,19.302791917322228
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMA2,-0.012339966065070485,0.0,3.6958198364954455
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMA4,-0.5984883541570412,0.0,1.0427271325003886
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMB2,-0.3763689649853461,0.0,-0.12339966065093222
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LRP4,-4.107666203917938,0.0,-0.9609748573191421
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP1,2.492673145148842,0.0,-1.1722967761838656
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP2,0.03393490667900778,0.0,-0.09254974548819916
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP3,-2.6993675767391636,0.0,-13.432053061854077
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP4,3.6742248958815367,0.0,-6.327317599876598
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LUM,-2.097794231065862,0.0,-0.43189881227826277
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MATN3,0.6987505784359094,0.0,0.6339657565941693
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP2,5.960203609440079,0.0,7.422489588153634
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP3,-1.3944161653555511,0.0,-1.4823384235693358
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP4,-13.421255591547109,0.0,-3.9534166281042693
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP5,1.2879839580441148,0.0,1.7970075582292147
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MUSK,-1.2710165047046118,0.0,10.519821070492057
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,NCAM1,4.409995372512725,0.0,2.00215949406139
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,NID2,-1.0411846367422584,0.0,6.604966836341201
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,NTN4,9.392256671294156,0.0,-1.679777880610826
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,PDGFA,-2.582137899120779,0.0,-1.1815517507326863
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,PRKCA,0.024679932130197813,0.0,-0.024679932130188337
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,PTPRS,-1.7353077279037308,0.0,1.2386240937837367
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC1,6.031158414314348,0.0,4.331328088847755
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC2,-5.417245102575961,0.0,0.0030849915162699895
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC3,0.09871972852076283,0.0,-1.7090853000154216
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC4,-0.7280579978405086,0.0,0.40721888014807917
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SERPINE1,0.6200832947709358,0.0,0.12648465216720695
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCB,2.0114144686102122,0.0,0.2560542958506839
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCD,1.3388863180626203,0.0,5.084066018818447
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCE,1.089002005244481,0.0,6.876446089773253
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCG,-1.2216566404442384,0.0,0.4349838037945397
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCZ,0.21749190189726986,0.0,6.384389942927657
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SH3PXD2A,0.030849915162718844,0.0,-1.699830325466607
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SNTA1,2.9677618386549405,0.0,2.7811198519204097
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SNTB1,4.266543267006028,0.0,-4.584297393182169
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SPARC,-0.05244485577664193,0.0,-0.009254974548809969
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SSPN,-1.4206385932438685,0.0,5.296930433441307
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TGFB1,-1.280271479253443,0.0,-3.2145611599568107
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TGFB2,0.9686873361098236,0.0,7.4687644608977335
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TGFB3,3.2392410920869974,0.0,-1.8710473546197752
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,THBS1,-0.00925497454882418,0.0,0.009254974548809969
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TNC,0.9039025142680686,0.0,-0.012339966065094169
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,UTRN,-0.4349838037945233,0.0,-0.5398735153478356
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,VCAM1,-13.68347987043035,0.0,14.636742248958818
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,VCAN,-1.511645842973948,0.0,1.2062316828628685
+GSE312900,Wuhan 24 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,VWF,-0.3501465370970227,0.0,-0.05707234305105654
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTA2,-7.974703069566573,0.0,-0.24371432978559446
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTB,-0.021594940613908875,0.0,-0.10488971155328859
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTG1,-0.006169983032549453,0.0,-0.04318988122782722
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTG2,-16.50470461206232,0.0,-5.099490976399816
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ACTN1,-0.4473237698596364,0.0,-0.3146691346598753
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ADAM12,-1.3604812586765433,0.0,2.452568255437299
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ADAM19,-5.684096868733604,0.0,-2.884467067715567
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,AGRN,2.862872127101646,0.0,-26.02961591855622
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,APP,0.2930741940459711,0.0,0.19435446552521776
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ASPN,-0.987197285207464,0.0,1.7985500539873518
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,BGN,-9.261144531852551,0.0,-7.5674841894184794
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,BMP2,1.4221810890020048,0.0,-0.21286441462285974
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,BMP4,7.238932592935363,0.0,9.75937066173068
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,CASK,1.3527687798858494,0.0,1.0766620391793917
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,CD47,2.7425574579669956,0.0,1.332716335030085
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,COMP,-0.037019898195279975,0.0,-0.0015424957581366694
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DAG1,2.2643837729446403,0.0,-12.108591701372822
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DDR2,-0.07712478790682553,0.0,-0.08637976245564971
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DRP2,4.17707851303409,0.0,-11.713712787289836
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DTNA,-2.435600802097799,0.0,-4.548819990745027
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,DTNB,1.6597254357550497,0.0,-1.4252660805182789
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EFEMP1,-1.089002005244481,0.0,-6.965910843745182
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EFEMP2,-0.7188030232917129,0.0,1.0180472003701908
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EMILIN1,0.17275952491131363,0.0,-2.1070492056146812
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,EMILIN2,3.378065710319305,0.0,-6.9828782970846826
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FBLN1,0.0370198981952683,0.0,-0.11722967761839224
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FBLN2,-4.627487274409987,0.0,0.15424957581366053
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FBLN5,-2.5913928736696192,0.0,1.0674070646305676
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FGF2,-1.1213944161653444,0.0,5.35863026376678
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,FMOD,0.819065247570574,0.0,3.3981181551750743
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,GDF5,1.579515656331946,0.0,1.5455807496529388
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,HAPLN1,-5.761221656640458,0.0,2.1348141292611444
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM1,-0.8144377602961594,0.0,-0.14036711399043658
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM2,0.08792225821378996,0.0,0.016967453339503297
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM3,0.5352460280734199,0.0,-2.511183094246491
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ICAM5,-0.7943853154403827,0.0,-0.12339966065093318
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA1,-3.1775412617615117,0.0,11.935832176461512
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA10,9.094554989973794,0.0,-12.247416319605122
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA11,-2.4340583063396792,0.0,0.10488971155328859
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA2,20.6139133117384,0.0,2.998611753817675
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA3,3.138978867808106,0.0,-7.265155020823689
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA4,6.848681166126795,0.0,2.989356779268858
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA5,0.17584451642760257,0.0,-1.4561159956810077
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA7,3.663427425574575,0.0,-1.3157488816905751
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA8,-0.08946475397192444,0.0,-0.27147925343205276
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGA9,2.1687490359401513,0.0,-0.6848681166126797
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGAE,-1.8463674224895925,0.0,-0.24371432978559207
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGAV,-0.13573962671601691,0.0,0.863797624556535
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB1,0.01850994909766257,0.0,0.018509949097638884
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB2,-0.7697053833101958,0.0,-0.5445010026222429
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB3,0.7712478790683335,0.0,-7.897578281659726
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB5,-0.23445935523676553,0.0,-1.0458121240166587
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,ITGB8,5.085608514576585,0.0,7.67854388400432
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,JAM2,1.2355391022674667,0.0,0.3825389480178929
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,JAM3,2.9137744871201434,0.0,-4.227980873052599
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMA1,-6.984420792842823,0.0,19.302791917322228
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMA2,4.260373283973465,0.0,3.6958198364954455
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMA4,0.030849915162747266,0.0,1.0427271325003886
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LAMB2,-0.3146691346598658,0.0,-0.12339966065093222
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LRP4,-1.7892950794385314,0.0,-0.9609748573191421
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP1,2.622242788832324,0.0,-1.1722967761838656
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP2,0.11722967761839698,0.0,-0.09254974548819916
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP3,-0.37945395650162084,0.0,-13.432053061854077
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LTBP4,5.0717260527533625,0.0,-6.327317599876598
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,LUM,-0.7342279808730439,0.0,-0.43189881227826277
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MATN3,1.042727132500386,0.0,0.6339657565941693
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP2,3.1621163041801665,0.0,7.422489588153634
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP3,1.1491593398118027,0.0,-1.4823384235693358
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP4,-8.562393953416617,0.0,-3.9534166281042693
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MFAP5,2.2381613450563007,0.0,1.7970075582292147
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,MUSK,0.24679932130186621,0.0,10.519821070492057
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,NCAM1,4.490205151935829,0.0,2.00215949406139
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,NID2,1.1136819373746505,0.0,6.604966836341201
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,NTN4,5.188955730371745,0.0,-1.679777880610826
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,PDGFA,-3.4783279345981803,0.0,-1.1815517507326863
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,PRKCA,0.17275952491129942,0.0,-0.024679932130188337
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,PTPRS,0.8622551287984095,0.0,1.2386240937837367
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC1,6.074348295542194,0.0,4.331328088847755
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC2,-1.9219497146382878,0.0,0.0030849915162699895
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC3,0.7218880148079734,0.0,-1.7090853000154216
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SDC4,-0.06786981335801556,0.0,0.40721888014807917
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SERPINE1,0.2899892025296964,0.0,0.12648465216720695
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCB,1.9682245873823945,0.0,0.2560542958506839
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCD,0.7373129723893186,0.0,5.084066018818447
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCE,2.1101341971309466,0.0,6.876446089773253
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCG,-1.1507018355699516,0.0,0.4349838037945397
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SGCZ,0.5383310195896962,0.0,6.384389942927657
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SH3PXD2A,0.25913928736694913,0.0,-1.699830325466607
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SNTA1,2.956964368347986,0.0,2.7811198519204097
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SNTB1,4.976091315748874,0.0,-4.584297393182169
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SPARC,-0.03393490667900778,0.0,-0.009254974548809969
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,SSPN,3.5153478327934593,0.0,5.296930433441307
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TGFB1,-0.826777726361243,0.0,-3.2145611599568107
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TGFB2,5.209008175227517,0.0,7.4687644608977335
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TGFB3,3.8778343359555763,0.0,-1.8710473546197752
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,THBS1,-0.00925497454882418,0.0,0.009254974548809969
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,TNC,0.4843436680549189,0.0,-0.012339966065094169
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,UTRN,-0.5954033626407522,0.0,-0.5398735153478356
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,VCAM1,-8.463674224895875,0.0,14.636742248958818
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,VCAN,-0.4966836341200178,0.0,1.2062316828628685
+GSE312900,Wuhan 48 h,group contrast,3,3,10806,101,expression percentile points,day-3 tension atlas,,VWF,0.27147925343205315,0.0,-0.05707234305105654
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ACTA2,-4.072188801480806,0.0,-0.07403979639056502
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ACTB,0.00925497454882418,0.0,-0.3887089310504308
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ACTG1,-0.04627487274409248,0.0,-0.03701989819528251
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ACTG2,-1.962054604349838,0.0,-1.5316982878297072
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ACTN1,-0.8422026839426167,0.0,-0.2869042110134217
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ADAM12,10.115687181860253,0.0,2.5728829245719567
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ADAM19,-5.7889865802869025,0.0,-3.0541416011105937
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,AGRN,-0.42110134197130833,0.0,-23.905599259602035
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,APP,-0.63859324386857,0.0,0.06478482184174084
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ASPN,-11.050439611291072,0.0,5.636279500231375
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,BGN,-16.867191115224433,0.0,-5.849143914854235
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,BMP2,28.98658028690421,0.0,-1.41601110596946
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,BMP4,-23.01712170291532,0.0,9.504858861638127
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,CASK,-3.9611291068949512,0.0,0.6848681166126909
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,CD47,-0.6478482184173942,0.0,1.2771864877371542
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,COMP,-6.982878297084682,0.0,1.5178158260064798
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,DAG1,4.2110134197130975,0.0,-12.873669597408608
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,DDR2,-0.8977325312355475,0.0,-0.0832947709393892
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,DRP2,-0.3331790837575195,0.0,-1.6196205460434983
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,DTNA,-19.50023137436372,0.0,-5.043961129106897
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,DTNB,2.790374826469227,0.0,-1.2771864877371595
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,EFEMP1,-16.21471540953263,0.0,-5.210550670985654
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,EFEMP2,1.3327163350300708,0.0,2.1656640444238775
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,EMILIN1,0.01850994909764836,0.0,-8.708931050439602
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,EMILIN2,-8.981952799629802,0.0,-7.825080981027305
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,FBLN1,0.31466913465988,0.0,-0.47200370198982
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,FBLN2,-7.015270708005559,0.0,-0.2683942619157875
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,FBLN5,-3.4428505321610317,0.0,0.8514576584914408
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,FGF2,9.967607589079122,0.0,4.1369736233225325
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,FMOD,-20.916242480333175,0.0,4.229523368810739
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,GDF5,38.39426191577974,0.0,4.743174456270246
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,HAPLN1,-15.844516427579826,0.0,3.1929662193428925
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ICAM1,-13.836186950485885,0.0,-0.37482646922720875
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ICAM2,0.7959278111985191,0.0,0.041647385469689935
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ICAM3,10.365571494678388,0.0,-1.962054604349838
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ICAM5,-0.3192966219342897,0.0,0.027764923646459994
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA1,-0.5090236001851025,0.0,5.812124016658942
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA10,7.667746413697362,0.0,-6.108283202221195
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA11,-1.9157797316057383,0.0,-0.10180472003702334
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA2,30.89773253123554,0.0,1.7723276260990275
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA3,1.1198519204072142,0.0,-13.401203146691351
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA4,8.4266543267006,0.0,2.8736695974086075
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA5,5.266080518278585,0.0,-2.0731142989356783
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA7,-5.187413234613604,0.0,-1.1938917167977792
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA8,-5.367885238315594,0.0,-0.41647385469690335
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGA9,-8.14437760296159,0.0,-0.9162424803331781
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGAE,6.714484035168908,0.0,-0.6154558074965237
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGAV,-0.3239241092087042,0.0,0.24988431281813916
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGB1,0.22211938917168084,0.0,0.009254974548809969
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGB2,0.027764923646460105,0.0,-1.471540953262378
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGB3,4.164738546968991,0.0,-7.496529384544196
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGB5,0.1943544655252225,0.0,-0.37019898195279666
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,ITGB8,-12.318371124479413,0.0,9.310504396112904
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,JAM2,-4.608977325312356,0.0,2.1564090698750586
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,JAM3,-1.1661267931513208,0.0,-2.211938917167984
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LAMA1,6.367422489588151,0.0,12.623785284590468
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LAMA2,-3.840814437760301,0.0,0.8329477093938067
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LAMA4,-1.3882461823230017,0.0,0.29615918556223164
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LAMB2,-0.712633040259135,0.0,-0.12956964368348167
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LRP4,7.889865802869043,0.0,-0.8745950948634889
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LTBP1,0.47200370198982,0.0,-0.3054141601110558
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LTBP2,0.12956964368346746,0.0,-0.09254974548819916
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LTBP3,-3.0217491901897304,0.0,-15.22443313280889
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LTBP4,-0.8422026839426167,0.0,-7.117075428042568
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,LUM,-1.3049514113836267,0.0,-0.12956964368348167
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,MATN3,1.1013419713095791,0.0,0.11568718186024995
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,MFAP2,-14.544192503470615,0.0,5.2012956964368335
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,MFAP3,6.936603424340582,0.0,-1.18000925497455
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,MFAP4,-31.22628412771865,0.0,-6.062008329477095
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,MFAP5,-0.7681628875520587,0.0,13.484497917630726
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,MUSK,4.51642757982416,0.0,21.804720037019898
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,NCAM1,-2.725590004627488,0.0,2.8505321610365577
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,NID2,12.318371124479413,0.0,5.747339194817215
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,NTN4,16.260990282276722,0.0,-1.9527996298010208
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,PDGFA,-6.515502082369274,0.0,-1.7862100879222567
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,PRKCA,1.4900509023600108,0.0,-0.03701989819528251
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,PTPRS,-0.3239241092087042,0.0,0.10180472003702334
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SDC1,-17.727903748264687,0.0,4.534937528921795
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SDC2,-0.9625173530772742,0.0,-0.397963905599255
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SDC3,10.61545580749653,0.0,-3.9703840814437754
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SDC4,0.5645534474780192,0.0,0.15733456732994
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SERPINE1,1.2401665895418716,0.0,0.24062933826931499
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SGCB,1.7584451642757983,0.0,0.13882461823230585
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SGCD,2.119389171679771,0.0,1.4345210550670942
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SGCE,-4.6830171217029175,0.0,4.969921332716325
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SGCG,-14.275798241554838,0.0,5.108745950948631
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SGCZ,-2.9615918556223964,0.0,45.0439611291069
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SH3PXD2A,1.027302174919015,0.0,-3.2855159648310917
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SNTA1,-17.834335955576123,0.0,3.2022211938917167
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SNTB1,-0.4257288292457133,0.0,-2.7117075428042483
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SPARC,-0.01850994909764836,0.0,0.009254974548809969
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,SSPN,-6.136048125867655,0.0,3.5539102267468756
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,TGFB1,-4.45164275798242,0.0,-4.969921332716332
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,TGFB2,-3.0217491901897304,0.0,7.265155020823691
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,TGFB3,-1.9435446552521967,0.0,-4.294308190652476
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,THBS1,0.00925497454882418,0.0,0.00925497454882418
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,TNC,2.619157797316049,0.0,0.03701989819528251
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,UTRN,-0.8422026839426167,0.0,-0.13882461823230585
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,VCAM1,-27.089310504396124,0.0,2.221193891716794
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,VCAN,-0.6571031929662183,0.0,0.5275335492827509
+GSE106887,GSE106887 12 h,single library per arm,1,1,10806,101,expression percentile points,day-3 tension atlas,,VWF,0.5460434983803788,0.0,0.208236927348449
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ACTA2,0.39800074046648604,0.0,-0.0948722695297981
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ACTB,0.009255831173646811,0.0,0.0069418733802351085
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ACTG1,-0.009255831173646811,0.0,-0.004627915586819853
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ACTG2,-0.6293965198074787,0.0,0.5148556090336927
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ACTN1,0.03702332469455882,0.0,0.030081451314320162
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ADAM12,0.26841910403554436,0.0,-1.6475379489078108
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ADAM19,3.619029988893004,0.0,4.0517400962606445
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,AGRN,0.023139577934102817,0.0,0.43733802295446367
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,APP,-0.11106997408367647,0.0,-0.16197704553868775
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ASPN,0.6710477600888538,0.0,-0.2256108848574616
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,BGN,-3.4524250277675037,0.0,-4.253054424287303
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,BMP2,1.342095520177712,0.0,2.649481673454276
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,BMP4,8.121991854868568,0.0,2.302388004442796
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,CASK,0.06941873380229424,0.0,1.3571362458348748
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,CD47,0.328582006664206,0.0,0.8006293965198097
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,COMP,0.5322102924842653,0.0,-8.657673084042946
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,DAG1,0.370233246945574,0.0,-0.36560533135875417
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,DDR2,0.40725657164013285,0.0,-0.1897445390596033
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,DRP2,-1.9067012217697155,0.0,-0.27767493520918185
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,DTNA,-5.044427989633466,0.0,-2.2040447982228804
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,DTNB,0.004627915586819853,0.0,-1.0111995557201032
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,EFEMP1,3.998519067012218,0.0,-1.2564790818215492
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,EFEMP2,0.01851166234727941,0.0,-0.21519807478711783
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,EMILIN1,0.055534987041838235,0.0,-0.2985005553498681
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,EMILIN2,1.0320251758607952,0.0,-2.19247500925583
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,FBLN1,-0.07404664938910344,0.0,-0.05090707145501838
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,FBLN2,-3.2950758978156216,0.0,-1.1419381710477587
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,FBLN5,0.25916327286191176,0.0,-0.370233246945574
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,FGF2,-0.356349500185118,0.0,1.7123287671232852
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,FMOD,2.1797482413920797,0.0,-2.3937893372824863
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,GDF5,6.187523139577934,0.0,-3.1978896704924114
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,HAPLN1,2.2630507219548406,0.0,0.22213994816734717
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ICAM1,0.5368382080710843,0.0,0.5900592373195113
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ICAM2,0.6895594224361348,0.0,-0.07751758607922993
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ICAM3,-0.4303961495742317,0.0,-0.16313402443539432
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ICAM5,0.02776749352091823,0.0,0.42229729729729726
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA1,3.3968900407256584,0.0,0.5541928915216587
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA10,0.6479081821547652,0.0,0.8260829322473136
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA11,0.055534987041838235,0.0,-0.779803776379115
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA2,0.2915586819696401,0.0,-1.0840892262125132
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA3,0.7774898185857069,0.0,2.0594224361347635
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA4,5.923731951129209,0.0,1.417299148463532
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA5,-0.027767493520926223,0.0,-0.04859311366160313
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA7,-1.6290262865605314,0.0,-4.5677526841910385
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA8,-2.9202147352832313,0.0,-3.236069974083673
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGA9,1.6938171047760084,0.0,-1.277304701962236
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGAE,-4.266938171047759,0.0,0.694187338022954
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGAV,0.1758607922991473,0.0,-0.03008145131433082
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGB1,-0.009255831173646811,0.0,0.004627915586819853
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGB2,0.3008145131432798,0.0,3.011616068122918
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGB3,9.917623102554607,0.0,3.8319141058867077
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGB5,0.2961865975564564,0.0,0.16429100333209234
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,ITGB8,1.0968159940762696,0.0,0.48361717882265864
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,JAM2,1.198630136986301,0.0,1.4080433172898932
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,JAM3,0.9394668641243982,0.0,0.13305257312106455
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LAMA1,4.271566086634579,0.0,3.6525823768974455
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LAMA2,-3.179378008145136,0.0,-2.26305072195483
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LAMA4,-1.1153276564235455,0.0,-0.7450944094779715
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LAMB2,-0.055534987041838235,0.0,-0.03933728248797408
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LRP4,-5.687708256201407,0.0,-1.7840614587189936
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LTBP1,-0.01851166234727941,0.0,0.06479081821547439
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LTBP2,0.07404664938911765,0.0,0.01619770455387126
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LTBP3,-1.0459089226212512,0.0,-0.9093854128100745
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LTBP4,-5.92373195112922,0.0,-6.722047389855607
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,LUM,-0.5183265457238093,0.0,-2.459737134394672
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,MATN3,-1.1708626434653833,0.0,0.6860884857460201
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,MFAP2,2.189004072565716,0.0,-0.035866345797852084
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,MFAP3,2.0270270270270316,0.0,2.8288134024435383
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,MFAP4,0.3100703443169124,0.0,-0.34940762680488824
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,MFAP5,-3.9013328396890046,0.0,-5.970011106997406
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,MUSK,-2.2769344687152895,0.0,2.2364402073306193
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,NCAM1,1.2171417993335805,0.0,0.4419659385412811
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,NID2,0.5136986301369859,0.0,3.373750462791559
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,NTN4,-2.189004072565716,0.0,0.188587560162901
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,PDGFA,0.2684191040355408,0.0,-3.0023602369492774
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,PRKCA,0.01851166234727941,0.0,0.2360236949278054
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,PTPRS,-1.2078859681599425,0.0,-1.02971121806738
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SDC1,2.3926323583857823,0.0,1.5156423546834512
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SDC2,1.332839689004075,0.0,0.7115420214735266
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SDC3,-0.43965198074786827,0.0,-1.9367826730840427
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SDC4,0.7034431691966034,0.0,0.9186412439837106
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SERPINE1,0.027767493520912012,0.0,0.0763606071825258
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SGCB,-2.1288411699370613,0.0,-0.39221584598296744
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SGCD,-0.8607922991484571,0.0,-0.37601814142909973
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SGCE,-1.4346538319141047,0.0,-0.06479081821547261
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SGCG,-1.21714179933358,0.0,-0.8376527212143652
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SGCZ,-0.004627915586819686,0.0,-0.29271566086634576
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SH3PXD2A,-0.4627915586819711,0.0,-1.2564790818215457
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SNTA1,0.16660496112551115,0.0,-2.443539429840799
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SNTB1,3.790262865605335,0.0,10.752961865975562
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SPARC,-0.009255831173646811,0.0,-0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,SSPN,-1.8696778970751566,0.0,-3.4420122176971493
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,TGFB1,-2.0362828582006784,0.0,-1.834968530174006
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,TGFB2,-7.946131062569414,0.0,-10.936921510551649
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,TGFB3,5.146242132543502,0.0,2.6217141799333574
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,THBS1,0.009255831173646811,0.0,0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,TNC,-0.4905590522028831,0.0,-0.8966586449463172
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,UTRN,-0.046279155868205635,0.0,0.1550351721584633
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,VCAM1,11.815068493150683,0.0,1.5295261014439099
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,VCAN,-0.5507219548315447,0.0,-0.33320992225101875
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,1,VWF,-0.5368382080710847,0.0,-0.21172713809700094
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ACTA2,0.2869307663828238,0.0,-0.06710477600888254
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ACTB,0.009255831173646811,0.0,0.0069418733802351085
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ACTG1,-0.01851166234727941,0.0,-0.002313957793411703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ACTG2,1.008885597926696,0.0,0.10528507960014899
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ACTN1,0.06479081821547084,0.0,0.02313957793409216
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ADAM12,-7.950758978156244,0.0,0.4072565716401364
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ADAM19,0.976490188818957,0.0,4.712375046279156
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,AGRN,-3.8643095149944457,0.0,1.4092002961866008
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,APP,-0.38874490929285344,0.0,-0.0925583117363935
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ASPN,7.321362458348759,0.0,-1.8881895594224378
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,BGN,-6.974268789337273,0.0,-3.3725934838948604
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,BMP2,4.040170307293595,0.0,1.9749629766753056
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,BMP4,0.06479081821547084,0.0,4.31668826360607
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,CASK,1.610514624213252,0.0,0.9718622732321354
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,CD47,0.342465753424662,0.0,0.7971584598296957
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,COMP,-8.941132913735643,0.0,-6.289337282487969
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,DAG1,-1.2310255460940454,0.0,0.03470936690115067
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,DDR2,-0.055534987041838235,0.0,-0.07404664938911054
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,DRP2,0.15734912995186967,0.0,-0.7936875231395781
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,DTNA,-2.980377637911886,0.0,-2.7200573861532753
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,DTNB,1.300444279896336,0.0,-1.3351536467974823
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,EFEMP1,0.3146982599037358,0.0,-0.3355238800444287
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,EFEMP2,-0.3239540910773826,0.0,-0.12958163643095233
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,EMILIN1,-0.23139577934098554,0.0,-0.22676786375416214
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,EMILIN2,-3.2534246575342465,0.0,-1.1211125509070694
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,FBLN1,-0.06479081821548505,0.0,-0.05322102924842298
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,FBLN2,-0.7034431691965892,0.0,-1.7898463532025168
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,FBLN5,-0.7312106627175012,0.0,-0.12263976305072077
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,FGF2,1.1199555720103689,0.0,1.3432524990744135
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,FMOD,-6.3818955942243605,0.0,-0.2533783783783763
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,GDF5,-6.275453535727507,0.0,-0.08214550166605106
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,HAPLN1,0.5414661236579121,0.0,0.6525360977415793
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ICAM1,1.638282117734172,0.0,0.31469825990373934
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ICAM2,0.6756756756756757,0.0,-0.07404664938911515
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ICAM3,-0.16197704553868936,0.0,-0.2302388004442799
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ICAM5,0.5692336171788224,0.0,0.2869307663828212
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA1,1.6336542021473548,0.0,0.9950018511662346
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA10,5.6969640873750365,0.0,-0.43618104405775426
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA11,-0.7312106627175012,0.0,-0.5831173639392802
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA2,-5.678452425027764,0.0,0.4084135505368378
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA3,3.4154017030729307,0.0,1.3999444650129576
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA4,1.2773047019622368,0.0,2.578905960755275
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA5,-0.1573491299518679,0.0,-0.01619770455386771
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA7,-5.90059237319511,0.0,-3.499861162532394
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA8,-7.0020362828581995,0.0,-2.215614587189931
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGA9,-1.3374676045908913,0.0,-0.5194835246205112
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGAE,0.6941873380229531,0.0,-0.546094039244724
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGAV,-0.08330248056276446,0.0,0.03470936690114712
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGB1,0.009255831173646811,0.0,-3.552713678800501e-15
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGB2,0.6432802665679382,0.0,2.9259996297667534
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGB3,-1.9020733061828992,0.0,6.786838208071084
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGB5,0.09255831173638285,0.0,0.21519807478711073
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,ITGB8,7.0945945945945965,0.0,-1.015827471306923
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,JAM2,0.5460940392447213,0.0,1.5711773417252881
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,JAM3,-0.5136986301369859,0.0,0.4963439466864106
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LAMA1,3.5310995927434305,0.0,3.8376990003702325
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LAMA2,-0.4998148833765299,0.0,-2.9329415031469814
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LAMA4,-0.8515364679748245,0.0,-0.8110422065901517
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LAMB2,-0.03702332469455882,0.0,-0.04396519807479393
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LRP4,-2.2537948907811938,0.0,-2.642539800074047
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LTBP1,0.08330248056275025,0.0,0.039337282487966974
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LTBP2,0.01851166234727941,0.0,0.03008145131433082
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LTBP3,-1.0736764161421775,0.0,-0.9024435394298429
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LTBP4,-6.3957793409848165,0.0,-6.604035542391708
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,LUM,-2.332469455757135,0.0,-2.0062014068863405
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,MATN3,-1.129211403184006,0.0,0.6756756756756758
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,MFAP2,-0.19900037023325012,0.0,0.5611347649018894
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,MFAP3,2.323213624583488,0.0,2.754766753054424
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,MFAP4,-1.9900037023324728,0.0,0.22561088485745806
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,MFAP5,-2.4111440207330617,0.0,-6.342558311736392
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,MUSK,8.663457978526473,0.0,-0.4986579044798214
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,NCAM1,0.8422806368011848,0.0,0.53568122917438
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,NID2,0.055534987041838235,0.0,3.488291373565346
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,NTN4,-6.617919289152169,0.0,1.2958163643095144
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,PDGFA,-4.405775638652351,0.0,-1.8338115512773046
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,PRKCA,0.6293965198074858,0.0,0.0833024805627538
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,PTPRS,-1.8974453905960758,0.0,-0.8573213624583467
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SDC1,1.268048870788597,0.0,1.7967882265827475
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SDC2,1.0644205849685306,0.0,0.7786467974824127
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SDC3,-4.183635690485005,0.0,-1.0007867456497586
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SDC4,1.360607182524987,0.0,0.7543502406516147
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SERPINE1,0.07404664938911765,0.0,0.06479081821547439
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SGCB,-1.0875601629026193,0.0,-0.652536097741578
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SGCD,-0.3517215845982946,0.0,-0.5032858200666404
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SGCE,-2.1288411699370613,0.0,0.10875601629026654
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SGCG,-2.4805627545353577,0.0,-0.5217974824139209
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SGCZ,-0.8191410588670862,0.0,-0.08908737504627916
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SH3PXD2A,-1.1662347278785603,0.0,-1.0806182895223984
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SNTA1,-5.872824879674191,0.0,-0.9336819696408734
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SNTB1,8.695853387634209,0.0,9.526564235468344
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SPARC,-0.027767493520926223,0.0,-0.002313957793411703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,SSPN,-0.9348389485375783,0.0,-3.675721954831544
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,TGFB1,-4.012402813772681,0.0,-1.3409385412810053
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,TGFB2,-15.151795631247687,0.0,-9.13550536838208
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,TGFB3,4.003146982599038,0.0,2.9074879674194736
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,THBS1,0.0,0.0,0.009255831173643259
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,TNC,-0.44427989633469167,0.0,-0.908228433913365
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,UTRN,0.6479081821547652,0.0,-0.01851166234727941
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,VCAM1,0.046279155868196975,0.0,4.471723435764532
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,VCAN,-0.046279155868191424,0.0,-0.4593206219918571
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,2,VWF,0.16660496112550938,0.0,-0.38758793039614947
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ACTA2,-0.647908182154751,0.0,0.16660496112551115
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ACTB,0.0,0.0,0.009255831173646811
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ACTG1,0.0,0.0,-0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ACTG2,-2.443539429840797,0.0,0.9683913365420223
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ACTN1,0.0,0.0,0.03933728248795987
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ADAM12,3.905960755275828,0.0,-2.5569233617178817
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ADAM19,3.975379489078122,0.0,3.962652721214365
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,AGRN,5.322102924842653,0.0,-0.8874028137726739
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,APP,-0.07404664938911765,0.0,-0.17123287671232745
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ASPN,-2.545353572750834,0.0,0.5784894483524603
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,BGN,-1.3420955201777218,0.0,-4.780636801184748
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,BMP2,3.34135505368382,0.0,2.1496667900777493
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,BMP4,5.655312847093668,0.0,2.919057756386521
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,CASK,2.45742317660126,0.0,0.7601351351351333
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,CD47,0.7312106627175154,0.0,0.6999722325064823
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,COMP,-3.3182154757497244,0.0,-7.6950666419844485
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,DAG1,-0.23139577934098554,0.0,-0.21519807478711428
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,DDR2,0.01851166234727941,0.0,-0.09255831173638995
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,DRP2,0.7543502406516112,0.0,-0.9429378008145135
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,DTNA,0.06016290262865809,0.0,-3.4801925212884113
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,DTNB,1.5410958904109595,0.0,-1.3953165494261381
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,EFEMP1,-3.790262865605328,0.0,0.6907164013328373
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,EFEMP2,-0.3609774157719414,0.0,-0.12032580525731262
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,EMILIN1,-0.11106997408366226,0.0,-0.25684931506849296
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,EMILIN2,-0.6432802665679347,0.0,-1.7736486486486474
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,FBLN1,-0.046279155868191424,0.0,-0.057848944835246385
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,FBLN2,-0.8052573121066331,0.0,-1.7643928174750059
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,FBLN5,-0.19437245464642672,0.0,-0.2568493150684894
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,FGF2,2.1982599037393555,0.0,1.0736764161421668
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,FMOD,2.9988893002591652,0.0,-2.5985746019992577
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,GDF5,2.9664938911514227,0.0,-2.3926323583857836
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,HAPLN1,-2.4065161051462454,0.0,1.3895316549426187
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ICAM1,-0.5044427989633471,0.0,0.8503794890781191
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ICAM2,0.4951869677897074,0.0,-0.02892447241762308
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ICAM3,-0.3424657534246575,0.0,-0.18511662347278784
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ICAM5,-0.1110699740836727,0.0,0.457006664198445
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA1,0.6849315068493098,0.0,1.2321825249907459
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA10,-0.4766753054424271,0.0,1.1072288041466116
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA11,-0.42576823398741226,0.0,-0.6594779711218024
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA2,0.43965198074786827,0.0,-1.1211125509070703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA3,0.0092558311736326,0.0,2.251480932987782
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA4,-1.9714920399851898,0.0,3.3911051462421318
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA5,0.0,0.0,-0.05553498704183468
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA7,-8.080340614587186,0.0,-2.954924102184375
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA8,-2.3139577934098554,0.0,-3.387634209552017
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGA9,0.5322102924842644,0.0,-0.9869029988893001
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGAE,1.0181414291003321,0.0,-0.6270825620140688
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGAV,-0.21288411699370613,0.0,0.06710477600888254
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGB1,0.0,0.0,0.00231395779340815
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGB2,1.4207700851536478,0.0,2.731627175120326
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGB3,7.78415401703073,0.0,4.365281377267677
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGB5,0.24065161051461814,0.0,0.1781747500925519
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,ITGB8,-4.257682339874123,0.0,1.8222417623102567
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,JAM2,2.2676786375416498,0.0,1.140781192151056
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,JAM3,-2.1195853387634216,0.0,0.8978156238430195
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LAMA1,2.9896334690855255,0.0,3.9730655312847087
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LAMA2,-3.2395409107737834,0.0,-2.248009996297668
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LAMA4,-0.27304701962235356,0.0,-0.9556645686782694
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LAMB2,-0.027767493520926223,0.0,-0.04627915586820208
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LRP4,-0.24065161051462525,0.0,-3.1458256201406893
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LTBP1,0.01851166234727941,0.0,0.05553498704183468
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LTBP2,0.03702332469455882,0.0,0.025453535727510967
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LTBP3,0.3563495001851038,0.0,-1.2599500185116632
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LTBP4,-3.882821177341718,0.0,-7.232275083302483
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,LUM,-2.2769344687152966,0.0,-2.0200851536468
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,MATN3,0.7497223250647904,0.0,0.20594224361347668
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,MFAP2,1.8141429100333255,0.0,0.0578489448352455
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,MFAP3,1.4948167345427592,0.0,2.9618659755646064
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,MFAP4,-0.12958163643095588,0.0,-0.23949463161792117
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,MFAP5,-9.579785264716769,0.0,-4.550398000740465
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,MUSK,2.1751203258052563,0.0,1.1234265087004829
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,NCAM1,3.5449833395038874,0.0,-0.13999444650129567
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,NID2,2.175120325805267,0.0,2.958395038874489
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,NTN4,5.900592373195117,0.0,-1.8338115512773072
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,PDGFA,-7.668456127360233,0.0,-1.018141429100334
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,PRKCA,0.3609774157719414,0.0,0.1504072565716399
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,PTPRS,-0.45353572750832427,0.0,-1.2182987782302845
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SDC1,2.1288411699370613,0.0,1.5815901517956314
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SDC2,1.2865605331358836,0.0,0.7231118104405745
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SDC3,-1.1986301369862957,0.0,-1.7470381340244359
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SDC4,0.6479081821547652,0.0,0.9325249907441702
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SERPINE1,0.08330248056275025,0.0,0.06247686042206624
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SGCB,-0.8006293965198097,0.0,-0.7242687893372803
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SGCD,-0.9857460199925896,0.0,-0.3447797112180666
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SGCE,-1.730840429470561,0.0,0.009255831173641482
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SGCG,-0.20362828582006665,0.0,-1.0910310995927435
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SGCZ,0.009255831173639373,0.0,-0.29618659755646054
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SH3PXD2A,-0.8515364679748245,0.0,-1.1592928544983323
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SNTA1,1.0273972602739718,0.0,-2.658737504627914
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SNTB1,7.483339503887443,0.0,9.829692706405035
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SPARC,-0.0092558311736326,0.0,-0.0069418733802351085
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,SSPN,-6.511477230655313,0.0,-2.2815623843021102
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,TGFB1,-0.9348389485375748,0.0,-2.110329507589782
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,TGFB2,-10.149018881895593,0.0,-10.386199555720104
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,TGFB3,0.9255831173639386,0.0,3.6768789337282484
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,THBS1,0.009255831173646811,0.0,0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,TNC,-0.41651240281376545,0.0,-0.9151703072935966
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,UTRN,-0.0092558311736326,0.0,0.14577934098482004
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,VCAM1,3.114587189929658,0.0,3.704646427249166
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,VCAN,-0.3517215845982946,0.0,-0.3829600148093313
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,3,VWF,0.3748611625323952,0.0,-0.43965198074787093
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ACTA2,-0.027767493520912012,0.0,0.011569788967051409
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ACTB,0.009255831173646811,0.0,0.0069418733802351085
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ACTG1,0.0,0.0,-0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ACTG2,1.3374676045908913,0.0,0.023139577934100153
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ACTN1,0.0185116623472652,0.0,0.03470936690114357
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ADAM12,-3.1469825990373863,0.0,-0.7936875231395781
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ADAM19,2.480562754535356,0.0,4.3363569048500565
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,AGRN,0.671047760088868,0.0,0.27536097741577237
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,APP,-0.0092558311736326,0.0,-0.18743058126619871
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ASPN,-4.493706034801924,0.0,1.065577563865233
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,BGN,-4.646427249166976,0.0,-3.9545538689374347
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,BMP2,1.6382821177341738,0.0,2.575435024065161
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,BMP4,4.664938911514248,0.0,3.166651240281376
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,CASK,-0.5136986301369859,0.0,1.5029155868196948
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,CD47,1.2634209552017808,0.0,0.566919659385416
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,COMP,-10.26008885597927,0.0,-5.959598296927062
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,DAG1,0.1666049611255147,0.0,-0.31469825990373934
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,DDR2,-0.3609774157719272,0.0,0.002313957793411703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,DRP2,0.6617919289152159,0.0,-0.9197982228804147
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,DTNA,-3.457052943354313,0.0,-2.6008885597926685
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,DTNB,-3.378378378378379,0.0,-0.16544798222880353
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,EFEMP1,-2.730470196223621,0.0,0.4257682339874105
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,EFEMP2,0.22213994816733873,0.0,-0.26610514624213266
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,EMILIN1,-0.2961865975564564,0.0,-0.21057015920029443
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,EMILIN2,1.7724916697519433,0.0,-2.377591632728617
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,FBLN1,-0.03702332469455882,0.0,-0.060162902628654535
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,FBLN2,-1.360607182524987,0.0,-1.6255553498704174
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,FBLN5,-0.37948907811922084,0.0,-0.21057015920029087
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,FGF2,2.179748241392076,0.0,1.0783043317289867
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,FMOD,-3.3320992225101804,0.0,-1.0158274713069213
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,GDF5,-3.1330988522769374,0.0,-0.8677341725286936
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,HAPLN1,1.9714920399851916,0.0,0.2950296186597594
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ICAM1,-0.19437245464642672,0.0,0.772861902998889
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ICAM2,-0.564605701592003,0.0,0.2360236949278045
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ICAM3,-0.5136986301369864,0.0,-0.14230840429470565
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ICAM5,0.9348389485375788,0.0,0.19552943354313213
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA1,0.4951869677897065,0.0,1.2796186597556467
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA10,-0.06479081821548505,0.0,1.0042576823398761
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA11,-0.4627915586819711,0.0,-0.6502221399481627
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA2,-2.0223991114402047,0.0,-0.5055997778600521
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA3,1.9067012217697226,0.0,1.7771195853387596
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA4,2.975749722325066,0.0,2.154294705664568
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA5,-0.027767493520912012,0.0,-0.04859311366160668
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA7,-1.5920029618659726,0.0,-4.577008515364678
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA8,-1.7539800074046639,0.0,-3.5276286560533148
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGA9,-1.9113291373565353,0.0,-0.3760181414291002
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGAE,2.26305072195483,0.0,-0.9383098852276932
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGAV,0.03702332469455882,0.0,0.0046279155868163
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGB1,0.01851166234727941,0.0,-0.002313957793411703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGB2,4.614031840059237,0.0,1.9333117363939287
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGB3,10.070344316919659,0.0,3.7937338022954448
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGB5,0.25916327286189755,0.0,0.17354683450573205
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,ITGB8,4.720473898556094,0.0,-0.42229729729729737
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,JAM2,-0.6895594224361332,0.0,1.8800907071455017
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,JAM3,1.3050721954831488,0.0,0.0416512402813769
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LAMA1,6.543872639763052,0.0,3.084505738615327
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LAMA2,-1.6475379489078108,0.0,-2.646010736764161
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LAMA4,-1.0042576823398832,0.0,-0.772861902998887
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LAMB2,-0.06479081821548505,0.0,-0.037023324694562376
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LRP4,-6.479081821547575,0.0,-1.5862180673824517
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LTBP1,0.1666049611255005,0.0,0.01851166234727941
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LTBP2,-0.0092558311736326,0.0,0.03702332469455882
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LTBP3,-1.610514624213252,0.0,-0.7682339874120743
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LTBP4,-8.478341355053686,0.0,-6.083395038874491
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,LUM,-2.443539429840797,0.0,-1.978433913365425
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,MATN3,1.5087004813032214,0.0,0.01619770455386893
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,MFAP2,-0.9811181044057768,0.0,0.7566641984450211
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,MFAP3,4.937985931136616,0.0,2.101073676416142
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,MFAP4,-0.39800074046649314,0.0,-0.17238985560903686
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,MFAP5,-5.039800074046639,0.0,-5.6853942984079975
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,MUSK,0.5322102924842653,0.0,1.5341540170307306
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,NCAM1,-1.4439096630877453,0.0,1.1072288041466125
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,NID2,2.8970751573491214,0.0,2.7779063309885252
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,NTN4,0.09718622732320625,0.0,-0.3829600148093295
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,PDGFA,-3.568122917437986,0.0,-2.043224731580896
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,PRKCA,0.08330248056275025,0.0,0.21982599037393769
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,PTPRS,-0.6571640133283978,0.0,-1.1673917067752662
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SDC1,3.531099592743427,0.0,1.23102554609404
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SDC2,0.4766753054424271,0.0,0.9255831173639386
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SDC3,-1.2495372084413248,0.0,-1.7343113661606786
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SDC4,1.110699740836722,0.0,0.816827101073681
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SERPINE1,0.11106997408367647,0.0,0.05553498704183468
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SGCB,0.370233246945574,0.0,-1.0169844502036263
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SGCD,-0.03702332469455882,0.0,-0.5819603850425743
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SGCE,4.396519807478718,0.0,-1.5225842280636783
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SGCG,-0.8515364679748245,0.0,-0.9290540540540542
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SGCZ,-0.06941873380229545,0.0,-0.27651795631247683
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SH3PXD2A,-1.5549796371714137,0.0,-0.983432062199185
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SNTA1,-0.0925583117363935,0.0,-2.3787486116253227
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SNTB1,14.920399851906701,0.0,7.970427619400221
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SPARC,0.0,0.0,-0.009255831173643259
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,SSPN,-2.4666790077749,0.0,-3.2927619400222135
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,TGFB1,-2.165864494631606,0.0,-1.802573121066274
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,TGFB2,-8.191410588670863,0.0,-10.875601629026287
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,TGFB3,2.003887449092927,0.0,3.4073028507960013
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,THBS1,0.009255831173646811,0.0,0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,TNC,-1.6706775268419136,0.0,-0.6016290262865596
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,UTRN,0.0092558311736326,0.0,0.14115142539800374
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,VCAM1,-0.21288411699370602,0.0,4.536514253980007
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,VCAN,-0.1480932987782353,0.0,-0.4338670862643461
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,4,VWF,0.12032580525731262,0.0,-0.3760181414291003
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ACTA2,0.009255831173646811,0.0,0.002313957793411703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ACTB,0.009255831173646811,0.0,0.0069418733802351085
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ACTG1,0.0,0.0,-0.006941873380231556
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ACTG2,2.1566086634579804,0.0,-0.18164568678267212
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ACTN1,0.03702332469454461,0.0,0.030081451314323715
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ADAM12,0.6016290262865596,0.0,-1.7308404294705646
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ADAM19,8.774527952610143,0.0,2.76286560533136
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,AGRN,-0.37948907811922084,0.0,0.5379951869677946
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,APP,-0.1758607922991473,0.0,-0.14577934098482004
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ASPN,-1.1847463902258468,0.0,0.23833765272121354
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,BGN,-4.04942613846724,0.0,-4.103804146612369
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,BMP2,1.5781192151055166,0.0,2.590475749722325
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,BMP4,-1.1754905590522036,0.0,4.626758607922989
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,CASK,1.874305812661973,0.0,0.9059144761199551
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,CD47,0.8654202147352805,0.0,0.6664198445020411
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,COMP,-12.111255090707147,0.0,-5.496806738245093
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,DAG1,-0.1666049611255005,0.0,-0.23139577934098554
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,DDR2,-0.3609774157719272,0.0,0.002313957793411703
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,DRP2,-2.684191040355424,0.0,-0.08330248056275469
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,DTNA,-2.438911514253981,0.0,-2.8554239170677516
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,DTNB,-3.5079600148093295,0.0,-0.1330525731210659
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,EFEMP1,1.1801184746390163,0.0,-0.5518789337282488
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,EFEMP2,-0.39800074046648604,0.0,-0.11106997408367647
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,EMILIN1,-0.5553498704183681,0.0,-0.14577934098481649
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,EMILIN2,-6.645686782673081,0.0,-0.27304701962236066
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,FBLN1,-0.055534987041838235,0.0,-0.05553498704183468
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,FBLN2,-1.6984450203628256,0.0,-1.5410958904109577
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,FBLN5,-0.1758607922991473,0.0,-0.26147723065530926
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,FGF2,1.3513513513513402,0.0,1.2854035542391706
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,FMOD,-2.8600518326545696,0.0,-1.133839318770824
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,GDF5,-6.349500185116623,0.0,-0.06363383931877209
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,HAPLN1,0.7821177341725303,0.0,0.5923731951129247
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ICAM1,1.4207700851536469,0.0,0.3690762680488706
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ICAM2,-0.9163272861902998,0.0,0.3239540910773787
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ICAM3,0.365605331358756,0.0,-0.3621343946686412
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ICAM5,0.2961865975564606,0.0,0.35519252128841167
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA1,-0.5970011106997362,0.0,1.5526656793780074
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA10,-1.8511662347278701,0.0,1.4508515364679724
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA11,-1.4994446501295755,0.0,-0.3910588670862616
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA2,2.9248426508700476,0.0,-1.7424102184376151
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA3,2.906330988522768,0.0,1.5272121436504982
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA4,3.387634209552015,0.0,2.0513235838578305
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA5,-0.0092558311736326,0.0,-0.05322102924842653
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA7,-2.6980747871158854,0.0,-4.3004905590522
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA8,-1.874305812661973,0.0,-3.4975472047389875
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGA9,-2.3926323583857823,0.0,-0.25569233617178844
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGAE,-1.1986301369862993,0.0,-0.07288967049241091
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGAV,0.13883746760458848,0.0,-0.020825620140691115
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGB1,-0.009255831173646811,0.0,0.004627915586819853
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGB2,5.368382080710849,0.0,1.7447241762310257
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGB3,-0.6247686042206588,0.0,6.467512032580524
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGB5,0.06479081821547084,0.0,0.22213994816733873
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,ITGB8,-5.622917437985933,0.0,2.1635505368382093
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,JAM2,3.507960014809335,0.0,0.8307108478341347
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,JAM3,1.860422065901517,0.0,-0.09718622732321514
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LAMA1,1.545723805997774,0.0,4.334042947056647
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LAMA2,-3.6653091447611956,0.0,-2.141567937800815
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LAMA4,-0.8515364679748245,0.0,-0.8110422065901517
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LAMB2,-0.027767493520926223,0.0,-0.04627915586820208
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LRP4,1.8372824879674194,0.0,-3.6653091447612
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LTBP1,-0.0092558311736326,0.0,0.062476860422062686
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LTBP2,0.01851166234727941,0.0,0.03008145131433082
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LTBP3,-1.3097001110699722,0.0,-0.8434376156978942
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LTBP4,-8.131247686042208,0.0,-6.17016845612736
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,LUM,-2.786005183265459,0.0,-1.8928174750092595
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,MATN3,1.6151425398000745,0.0,-0.010412810070344336
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,MFAP2,-0.7774898185857069,0.0,0.7057571269900036
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,MFAP3,2.55923731951129,0.0,2.6957608293224737
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,MFAP4,1.1199555720103689,0.0,-0.5518789337282524
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,MFAP5,-6.849315068493155,0.0,-5.233015549796368
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,MUSK,-2.4250277674935177,0.0,2.2734635320251764
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,NCAM1,-1.1754905590522027,0.0,1.0401240281377269
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,NID2,8.36727138097001,0.0,1.410357275083303
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,NTN4,1.3744909292854501,0.0,-0.7022861902998905
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,PDGFA,3.63291373565346,0.0,-3.8434838948537573
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,PRKCA,-0.12958163643095588,0.0,0.2730470196223642
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,PTPRS,-1.110699740836722,0.0,-1.054007774898185
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SDC1,-0.8654202147352805,0.0,2.330155497963717
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SDC2,0.0185116623472652,0.0,1.040124028137729
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SDC3,-1.1153276564235455,0.0,-1.7678637541651234
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SDC4,0.5553498704183681,0.0,0.9556645686782694
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SERPINE1,0.03702332469455882,0.0,0.0740466493891141
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SGCB,-0.05090707145501483,0.0,-0.911699370603479
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SGCD,-0.12958163643095588,0.0,-0.558820807108475
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SGCE,-0.7960014809329863,0.0,-0.2244539059607522
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SGCG,0.1851166234727879,0.0,-1.1882173269159573
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SGCZ,-0.29155868196964085,0.0,-0.22098296927064048
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SH3PXD2A,-1.453165494261384,0.0,-1.0088855979266924
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SNTA1,-4.836171788226583,0.0,-1.1928452425027753
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SNTB1,11.912254720473896,0.0,8.722463902258422
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SPARC,0.0092558311736326,0.0,-0.011569788967051409
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,SSPN,-3.855053683820806,0.0,-2.945668271010737
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,TGFB1,-0.22676786375416214,0.0,-2.287347278785635
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,TGFB2,-10.255460940392453,0.0,-10.359589041095889
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,TGFB3,3.5542391706775263,0.0,3.0197149203998515
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,THBS1,0.0092558311736326,0.0,0.0069418733802351085
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,TNC,-1.055164753794898,0.0,-0.7555072195483135
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,UTRN,-0.027767493520912012,0.0,0.1504072565716399
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,VCAM1,3.170122176971491,0.0,3.690762680488708
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,VCAN,-0.7867456497593537,0.0,-0.2742039985190665
+GSE173891,Hong Kong 12 h,one held-out donor pair,1,1,10805,101,expression percentile points,mean of the other four donor changes,5,VWF,-1.508700481303221,0.0,0.03123843021103312

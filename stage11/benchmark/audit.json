@@ -1,0 +1,27 @@
+{
+  "input_sha256": {
+    "reference_counts.npz": "e8b5b03b55fb3bc34db5f4bc59f863f602f2ddff31226cd4a242b01a67f15502",
+    "features.tsv": "ae14410f169aa6911629fe8fcba8bfe757f6e381f2b237ab360b06e24f0b102f",
+    "time_transfer.tsv": "7d0eba91c55a9a44ed548a2ea67b760870cbf74dcf76d58f193a71f22b2a8214",
+    "calibration.tsv": "65a07ffe929220b6550fc4a42f0021b7f80abd12682622ca41bd13af9b78d8c4"
+  },
+  "unique": 37433,
+  "background": 10806,
+  "panel": 101,
+  "largest_stage10_panel_state_deviation": 3.1086244689504383e-15,
+  "measured_days": {
+    "pressure": "PP7D",
+    "tension": "TP7D"
+  },
+  "prediction_days": {
+    "pressure": [
+      "CP",
+      "PP3D"
+    ],
+    "tension": [
+      "CP",
+      "TP3D"
+    ]
+  },
+  "numpy": "2.3.5"
+}

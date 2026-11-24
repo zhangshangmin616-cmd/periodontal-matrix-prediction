@@ -1,0 +1,16 @@
+# How much can an amplitude correction recover in clinical tissue?
+
+The fixed atlas prediction transferred day-7 pressure and tension expression profiles in equal proportions at unchanged cell-group RNA shares. Source calibrations used absolute error on 10,589 non-matrix genes; every measured matrix gene was excluded. The Seoul participant-first fit and the Leuven day-7 fit gave signed coefficients of −0.120 and −0.186, respectively. Their nonnegative optima were both zero. Averaging the Seoul participants by gene before fitting gave −0.208 before imposing nonnegativity. The earlier study evaluated a related coefficient with squared error; its nonnegative fits were also zero. [Seoul study](https://doi.org/10.3390/jcm9020358) · [Leuven study](https://doi.org/10.1111/jre.13352)
+
+| Destination for the fixed 101 genes | Zero MAE | Unscaled atlas MAE | Best nonnegative multiplier using the target outcomes | Best attainable MAE |
+|---|---:|---:|---:|---:|
+| Leuven, day 7 | 6.173 | 6.536 | 0.0580 | 6.170 |
+| Leuven, day 28 | 2.511 | 3.299 | 0.1363 | 2.488 |
+| Seoul, week 3, scoring 11 participants before averaging | 5.554 | 6.249 | 0 | 5.554 |
+| Seoul, week 3, scoring the 11-participant mean | 2.098 | 3.573 | 0 | 2.098 |
+
+Errors are mean absolute individual-gene percentile-point errors. The last two columns use the destination outcomes to bound achievable performance within the specified one-parameter family. They provide a finite-sample diagnostic and cannot be used as out-of-sample accuracy estimates. In Leuven at day 7, 47 of 101 predicted gene changes had the observed sign. They carried 51.1% of the weight from absolute forecast magnitudes. Even choosing a best multiplier on those 101 measured outcomes reduced error by only 0.00312 points against zero. Across 19 single loaded-specimen deletions the gain ranged from 0 to 0.01064, conditional on the same five controls and resulting atlas forecast.
+
+In a second diagnostic we fixed the atlas panel mean and rescaled the difference of each gene prediction from that mean. At day 7 the best gene-specific adjustment reduced MAE from 6.15291 for a common shift to 6.14858, a gain of 0.00434 and a multiplier of 0.1224. The common shift alone was already more accurate than zero for this group contrast. Seoul's participant-first optimum gave all genes in each participant the common atlas-predicted mean without additional gene-specific deviations. For the ordinary amplitude family, eight of 11 participant-specific optima were zero, and the three other individuals gained at most 0.00536 points when fitted separately. Dropping any one Seoul participant left the common nonnegative optimum at zero.
+
+From the unpacked root run `python stage15/clinical/score.py`, `python stage15/clinical/deletions.py` and `python stage15/clinical/check.py` in that order. Inputs are the original `stage11/specificity/rank_changes.npz`, `stage12/review/control_ranks.tsv` and the Leuven count files and mappings below `stage5/zhao/`. The score script writes `coefficients.tsv`, `scores.tsv`, `oracle.tsv` and `curves.tsv`. The deletion script writes `deletions.tsv`. The checker uses sorted counts to reconstruct rank changes, convexity conditions for the source fits and exhaustive evaluation of target breakpoints for target-informed optimum errors.

@@ -1,0 +1,36 @@
+{
+  "population_measure": "difference in specimen-group median log2(RANKL/OPG), pressure minus tension",
+  "observed_lower_bound": 2.0,
+  "atlas_prediction": 0.5313982151605801,
+  "absolute_error_gain_vs_zero": 0.5313982151605801,
+  "model_error_at_least": 1.46860178483942,
+  "zero_error_at_least": 2.0,
+  "cell_resampling": {
+    "seed": 20261124,
+    "repeats": 5000,
+    "min": -0.9403006356174397,
+    "max": 1.9348731930750303,
+    "q025_q50_q975": [
+      -0.2280346880224506,
+      0.5446979716023643,
+      1.3459405225300778
+    ],
+    "positive_below_four": 4582,
+    "nonpositive": 418,
+    "at_least_four": 0
+  },
+  "historical_control_weights": {
+    "Kim": {
+      "n": 11,
+      "min": -0.015147251952053853,
+      "max": 0.938863282611238,
+      "guarantee_gain": 10
+    },
+    "Zhao": {
+      "n": 27,
+      "min": -0.008114003169479023,
+      "max": 1.37371161194391,
+      "guarantee_gain": 26
+    }
+  }
+}

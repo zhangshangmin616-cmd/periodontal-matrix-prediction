@@ -1,0 +1,15 @@
+{
+  "training_genes": 10705,
+  "coefficient": 0.23238716799216566,
+  "model": "ordinary least squares, no intercept",
+  "atlas_days": [
+    3,
+    7
+  ],
+  "external_days": [
+    3,
+    10
+  ],
+  "external_outcomes_used_for_fit": false,
+  "atlas_sha256": "142b42445b4ffa8b78489b2b91df356315c23db615552d9eff6f9b3c0f858551"
+}

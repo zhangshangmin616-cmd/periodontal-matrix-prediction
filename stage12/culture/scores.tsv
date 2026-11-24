@@ -1,0 +1,4 @@
+forecast	comparator	reported	not_reported	selected_forecast_mae	selected_comparator_mae	selected_mean_gain	selected_forecast_closer	selected_ties	selected_forecast_sign_correct	min_full_panel_gain	max_full_panel_gain
+fibroblast	zero	40	61	0.8940601614015458	0.525825	-0.3682351614015459	11	0	18	-0.5483448572969548	0.2566734423254333
+mixture	zero	40	61	0.6577830037065887	0.525825	-0.13195800370658867	14	0	16	-0.235908617632107	0.1313874265773833
+fibroblast	mixture	40	61	0.8940601614015458	0.6577830037065887	-0.23627715769495716	14	0	18	-0.3936720966222233	0.2065218727054256

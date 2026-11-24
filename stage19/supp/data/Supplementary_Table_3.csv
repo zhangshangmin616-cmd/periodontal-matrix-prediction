@@ -1,0 +1,7 @@
+test,forecast,scale,n_targets,scoring_units,zero_panel_error,forecast_panel_error,zero_gene_mae,forecast_gene_mae,background
+Wuhan 24 h,Tension atlas,Count rank,101,3 loaded and 3 baseline libraries,0.29073754205591834,0.2387661255713731,2.79975197889988,4.6369866047224795,10806
+Wuhan 24 h,Tension atlas,FPKM rank,101,3 loaded and 3 baseline libraries,0.3877645416394196,0.30995518769161134,2.93552050173273,4.63994565854766,10554
+Wuhan 24 h,Tension atlas,log2(CPM + 1),101,3 loaded and 3 baseline libraries,0.015778820115089076,0.046998188669569924,0.2517270181568831,0.424822931288835,10806
+Wuhan 48 h,Tension atlas,Count rank,101,3 loaded and 3 baseline libraries,0.4485150042075011,0.5004864206920465,2.5635974055526805,4.228866662695887,10806
+Wuhan 48 h,Tension atlas,FPKM rank,101,3 loaded and 3 baseline libraries,0.5892776333446869,0.6670869872924952,2.6038456209877587,3.916534456440053,10554
+Wuhan 48 h,Tension atlas,log2(CPM + 1),101,3 loaded and 3 baseline libraries,0.044321222192650514,0.013101853638169647,0.23430100654310515,0.36973451882632935,10806

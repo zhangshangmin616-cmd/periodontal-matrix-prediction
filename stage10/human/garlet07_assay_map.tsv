@@ -1,0 +1,6 @@
+published_assay	candidate	RefSeq	forw_site_1based	rev_site_left_1based	product_length	exact_concordant_match
+TGF-beta	TGFB1	NM_000660.7	1309	1400	111	True
+TGF-beta	TGFB2	NM_003238.6				False
+TGF-beta	TGFB3	NM_003239.5				False
+COL-I	COL1A1	NM_000088.4	229	322	114	True
+COL-I	COL1A2	NM_000089.4				False

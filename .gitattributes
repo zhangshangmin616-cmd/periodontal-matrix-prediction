@@ -1,0 +1,2 @@
+# Preserve archived file bytes for the SHA-256 integrity checks on every platform.
+* -text

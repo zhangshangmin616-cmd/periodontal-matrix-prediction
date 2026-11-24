@@ -1,0 +1,30 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+# Generated figures and local plot caches
+*.png
+*.pdf
+.matplotlib/
+# Local work, outputs, logs and archive copies
+work/
+outputs/
+local/
+.codex/
+*.log
+*.tmp
+*.zip
+# Machine-specific configuration and credentials
+.env
+.env.*
+*.local
+*.local.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

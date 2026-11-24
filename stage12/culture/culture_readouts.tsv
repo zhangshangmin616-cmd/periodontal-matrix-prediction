@@ -1,0 +1,102 @@
+gene	reported_log2	control1	control2	control3	tension1	tension2	tension3
+ACTA2	-1.535	10188	13104	18395	4828	13566	5355
+ACTB	-0.153						
+ACTG1							
+ACTG2							
+ACTN1	-0.463						
+ADAM12							
+ADAM19							
+AGRN							
+APP							
+ASPN	-0.872						
+BGN	-0.378						
+BMP2	1.372	152	171	65	303	1914	362
+BMP4							
+CASK	-0.276						
+CD47	0.193						
+COMP	-1.437	3734	524	206	2410	359	68
+DAG1							
+DDR2	-0.273						
+DRP2	0.342						
+DTNA							
+DTNB							
+EFEMP1	-0.529						
+EFEMP2							
+EMILIN1	0.255						
+EMILIN2							
+FBLN1							
+FBLN2	-0.120						
+FBLN5	-0.196						
+FGF2	-0.314						
+FMOD	-0.648						
+GDF5	1.255	344	889	342	957	4898	1483
+HAPLN1	-0.215						
+ICAM1	-1.248	461	121	198	272	122	69
+ICAM2							
+ICAM3							
+ICAM5							
+ITGA1							
+ITGA10	1.036	35	99	92	96	548	313
+ITGA11							
+ITGA2							
+ITGA3							
+ITGA4							
+ITGA5							
+ITGA7							
+ITGA8							
+ITGA9							
+ITGAE							
+ITGAV	-0.365						
+ITGB1							
+ITGB2							
+ITGB3							
+ITGB5	-0.253						
+ITGB8	0.545						
+JAM2							
+JAM3							
+LAMA1							
+LAMA2	-0.545						
+LAMA4							
+LAMB2							
+LRP4							
+LTBP1	0.299						
+LTBP2							
+LTBP3							
+LTBP4	0.273						
+LUM							
+MATN3							
+MFAP2							
+MFAP3							
+MFAP4	-0.202						
+MFAP5	-0.208						
+MUSK	0.764						
+NCAM1							
+NID2	-0.201						
+NTN4							
+PDGFA							
+PRKCA							
+PTPRS							
+SDC1							
+SDC2	-0.235						
+SDC3							
+SDC4	-0.311						
+SERPINE1	-0.490						
+SGCB							
+SGCD	-0.298						
+SGCE							
+SGCG	-0.669						
+SGCZ							
+SH3PXD2A	-0.127						
+SNTA1							
+SNTB1							
+SPARC	-0.679						
+SSPN							
+TGFB1							
+TGFB2							
+TGFB3							
+THBS1							
+TNC							
+UTRN	-0.293						
+VCAM1	-1.166	1331	5482	4830	915	5080	2480
+VCAN							
+VWF							

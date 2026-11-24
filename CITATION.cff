@@ -1,0 +1,16 @@
+cff-version: "1.2.0"
+type: software
+title: "Averaging matrix gene responses masks prediction errors in mechanically loaded human periodontal ligament"
+message: "If you use this software, please cite it using these metadata."
+authors:
+  - family-names: "Zhang"
+    given-names: "Shangmin"
+    orcid: "https://orcid.org/0009-0003-1846-9333"
+version: "1.0.0"
+date-released: "2026-11-25"
+repository-code: "https://github.com/zhangshangmin616-cmd/periodontal-matrix-prediction"
+abstract: "Analysis software and worked example for comparing panel-mean and individual-gene prediction errors in mechanically loaded human periodontal ligament."
+keywords:
+  - "periodontal ligament"
+  - "gene expression"
+  - "prediction error"

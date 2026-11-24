@@ -1,0 +1,10 @@
+test,forecast,scale,n_targets,scoring_units,zero_panel_error,forecast_panel_error,zero_gene_mae,forecast_gene_mae
+Constructed mixture,Expression changed,rank points,101,"4 side-time conditions x 6 overlapping cell splits, 5 original libraries",0.30898213606645253,0.41269206744829967,3.8673518555002193,2.254241099723114
+Constructed mixture,RNA shares changed,rank points,101,"4 side-time conditions x 6 overlapping cell splits, 5 original libraries",0.7035078797097665,0.22244392417029765,3.220765505518622,0.8496746250284447
+Constructed mixture,Both changed,rank points,101,"4 side-time conditions x 6 overlapping cell splits, 5 original libraries",0.8757882382407608,0.4488223579414859,5.600777280411983,2.044110415206259
+"Hong Kong, held-out donor",Four-donor gene mean,rank points,101,"5 donor pairs, overlapping four-donor training folds",0.2878105285537809,0.34073830374522107,1.92781551387275,1.6257317605140744
+"Hong Kong, held-out donor",Four-donor gene mean,log2(CPM + 1),101,"5 donor pairs, overlapping four-donor training folds",0.031832631456001306,0.02429567040694643,0.16858336673317947,0.13843308026975606
+Leuven day 7,Seoul gene mean,rank points,101,"11 Seoul participants, 1 destination group contrast",0.6286071311532143,0.5581743590467579,6.172724639910833,5.978316772713339
+Leuven day 7,Quarter Seoul gene mean,rank points,101,"11 Seoul participants, 1 destination group contrast",0.6286071311532143,0.6109989381266002,6.172724639910833,5.997955051356468
+Leuven day 28,Seoul gene mean,rank points,101,"11 Seoul participants, 1 destination group contrast",0.1413870461276491,0.21181981823410537,2.510723007951502,2.766526006113419
+Leuven day 28,Quarter Seoul gene mean,rank points,101,"11 Seoul participants, 1 destination group contrast",0.1413870461276491,0.15899523915426314,2.510723007951502,2.38878441836072

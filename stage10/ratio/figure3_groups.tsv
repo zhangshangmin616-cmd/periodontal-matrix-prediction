@@ -1,0 +1,7 @@
+side	panel	class_interval_log2_rankl_over_opg	cases	denominator
+pressure	C	[1,+inf)	18	26
+pressure	C	(-1,1)	7	26
+pressure	C	(-inf,-1]	1	26
+tension	D	[1,+inf)	1	26
+tension	D	(-1,1)	5	26
+tension	D	(-inf,-1]	20	26

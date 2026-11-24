@@ -1,0 +1,11 @@
+{
+  "controls": 41,
+  "units": 13,
+  "genes": 10806,
+  "targets": 101,
+  "max_mixture_discrepancy": 3.637978807091713e-12,
+  "max_full_vs_stage11": 0.0,
+  "max_composition_vs_stage5": 4.973799150320701e-14,
+  "combinations": 32,
+  "attribution_orders": 120
+}

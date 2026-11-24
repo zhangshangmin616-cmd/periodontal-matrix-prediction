@@ -1,0 +1,8 @@
+Study,Material and exposure,Unit used for scoring,Role in the analysis
+Nanjing (GSE327337),Root-side ligament at days 3 and 7 plus untreated tissue,"5 distinguishable libraries containing 62,490 retained barcodes",Expression profiles for atlas forecasts
+Seoul (GSE165988),Orthodontic loading for 3 weeks,29 teeth from 11 participants with one paired contrast each,Clinical model development and source of measured gene changes
+Leuven (PRJNA1136245),Orthodontic loading for 7 or 28 days,Day 7 used 19 loaded and 5 control specimens. Day 28 used 17 and 22.,External clinical evaluation with one group contrast per time
+Hong Kong (GSE173891),Cultured ligament cells under 12 h of tensile strain,5 donors with one loaded and one control culture each,Within-protocol prediction and source of cross-laboratory forecasts
+Wuhan (GSE312900),Cultured ligament stem cells under continuous tension,3 libraries each at 0 h and at 24 and 48 h,External culture evaluation with a shared baseline
+GSE106887,Cultured ligament stem cells under 12 h of equibiaxial stretch,1 normal and 1 stretched library,External culture comparison without replicate libraries
+Xi’an (PRJNA665587),Cultured ligament stem cells under 6 h of cyclic strain,3 controls and 2 and 3 loaded libraries at 0.1 and 0.5 Hz,External frequency comparison with shared controls

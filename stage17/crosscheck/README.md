@@ -1,0 +1,7 @@
+# Independent reconstruction of the Wuhan count analysis
+
+`check_wuhan.py` starts with twelve original run files and verifies their decompressed NCBI MD5 values. The nine negative-control vector libraries are identified from the public sequencing-experiment titles. The script independently reconstructs the fixed-share tissue and fibroblast-like effects from integer single-cell pseudobulk counts, verifies the previous frozen tissue coefficient vector, and sorts expression by equal-value blocks to recalculate percentile changes. All 84 time, model, endpoint and deletion rows and all 1,212 gene-level forecast/measurement pairs are compared with the production tables.
+
+For a numerical sensitivity check, the publicly reported fractional counts are also converted to integer hundredths before runs for the same library are summed. This preserves exact ties in the deposited decimal data. The tissue-model panel gains are +0.0520 at 24 h and −0.0520 at 48 h on this implementation. The respective individual-gene gains are −1.8372 and −1.6652. Changing one of the six libraries in either group contrast by leaving it out preserves the original signs in all six reruns.
+
+Run `python stage17/crosscheck/check_wuhan.py` after reconstructing (or verifying) the primary count tables. It writes `wuhan_verified.tsv`. [GSE312900](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE312900) · [PRJNA1377575](https://www.ebi.ac.uk/ena/browser/view/PRJNA1377575)
